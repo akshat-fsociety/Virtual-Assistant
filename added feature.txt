@@ -1,5 +1,0 @@
-- Can set alarms.
-- Search and open locations on google maps.
-- Can tell you jokes.
-- Can tell the day and date
-- Added break statement In line 95 (previously only replied but didn't end the program)
